@@ -1,36 +1,33 @@
-[submodule "editor/.vim/pack/plugins/start/AutoComplPop"]
-	path = editor/.vim/pack/plugins/start/AutoComplPop
-	url = https://github.com/vim-scripts/AutoComplPop
-[submodule "editor/.vim/pack/plugins/start/auto-pairs"]
-	path = editor/.vim/pack/plugins/start/auto-pairs
-	url = https://github.com/jiangmiao/auto-pairs
-[submodule "editor/.vim/pack/plugins/start/nerdcommenter"]
-	path = editor/.vim/pack/plugins/start/nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter
-[submodule "editor/.vim/pack/plugins/start/nerdtree"]
-	path = editor/.vim/pack/plugins/start/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
-[submodule "editor/.vim/pack/plugins/start/syntastic"]
-	path = editor/.vim/pack/plugins/start/syntastic
-	url = https://github.com/scrooloose/syntastic
-[submodule "editor/.vim/pack/plugins/start/vim-autoformat"]
-	path = editor/.vim/pack/plugins/start/vim-autoformat
-	url = git://github.com/Chiel92/vim-autoformat
-[submodule "editor/.vim/pack/plugins/start/vim-misc"]
-	path = editor/.vim/pack/plugins/start/vim-misc
-	url = https://github.com/xolox/vim-misc
-[submodule "editor/.vim/pack/plugins/start/vim-surround"]
-	path = editor/.vim/pack/plugins/start/vim-surround
-	url = https://github.com/tpope/vim-surround
-[submodule "editor/.vim/pack/plugins/start/vim-airline"]
-	path = editor/.vim/pack/plugins/start/vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
-[submodule "editor/.vim/pack/plugins/start/YouCompleteMe"]
-	path = editor/.vim/pack/plugins/start/YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe.git
-[submodule "editor/.vim/pack/plugins/start/tagbar"]
-	path = editor/.vim/pack/plugins/start/tagbar
-	url = https://github.com/majutsushi/tagbar.git
 [submodule "editor/.vim/pack/plugins/start/vim-snippets"]
 	path = editor/.vim/pack/plugins/start/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "editor/.vim/pack/plugins/start/tagbar"]
+	path = editor/.vim/pack/plugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "editor/.vim/pack/plugins/start/vim-airline"]
+	path = editor/.vim/pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "editor/.vim/pack/plugins/start/vim-surround"]
+	path = editor/.vim/pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "editor/.vim/pack/plugins/start/vim-misc"]
+	path = editor/.vim/pack/plugins/start/vim-misc
+	url = https://github.com/xolox/vim-misc
+[submodule "editor/.vim/pack/plugins/start/vim-autoformat"]
+	path = editor/.vim/pack/plugins/start/vim-autoformat
+	url = git://github.com/Chiel92/vim-autoformat
+[submodule "editor/.vim/pack/plugins/start/syntastic"]
+	path = editor/.vim/pack/plugins/start/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "editor/.vim/pack/plugins/start/nerdtree"]
+	path = editor/.vim/pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "editor/.vim/pack/plugins/start/nerdcommenter"]
+	path = editor/.vim/pack/plugins/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "editor/.vim/pack/plugins/start/auto-pairs"]
+	path = editor/.vim/pack/plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "editor/.vim/pack/plugins/start/AutoComplPop"]
+	path = editor/.vim/pack/plugins/start/AutoComplPop
+	url = https://github.com/vim-scripts/AutoComplPop
