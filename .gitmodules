@@ -19,9 +19,6 @@
 [submodule "editor/.vim/pack/plugins/start/syntastic"]
 	path = editor/.vim/pack/plugins/start/syntastic
 	url = https://github.com/scrooloose/syntastic
-[submodule "editor/.vim/pack/plugins/start/nerdtree"]
-	path = editor/.vim/pack/plugins/start/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "editor/.vim/pack/plugins/start/nerdcommenter"]
 	path = editor/.vim/pack/plugins/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
