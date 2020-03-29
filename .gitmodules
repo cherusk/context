@@ -28,3 +28,6 @@
 [submodule "editor/.vim/pack/plugins/start/AutoComplPop"]
 	path = editor/.vim/pack/plugins/start/AutoComplPop
 	url = https://github.com/vim-scripts/AutoComplPop
+[submodule "editor/.vim/pack/plugins/start/rust.vim"]
+	path = editor/.vim/pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
